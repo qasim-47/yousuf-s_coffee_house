@@ -1,0 +1,7 @@
+.env
+*.log
+*.sql
+.DS_Store
+Thumbs.db
+db.php
+.vscode/
